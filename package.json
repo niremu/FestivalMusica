@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/niremu/FestivalMusica/issues"
   },
-  "homepage": "https://github.com/niremu/FestivalMusica#readme"
+  "homepage": "https://github.com/niremu/FestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.52.3"
+  }
 }
