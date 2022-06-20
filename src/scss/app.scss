@@ -1,6 +1,5 @@
-@import 'base/variables';
-@import 'contenido/contenido';
+// @import 'base/variables';                    // sintaxis antigua
+// @import 'contenido/contenido';               // sintaxis antigua
 
-body {
-    background-color: $rojo;
-}
+@use 'base';
+@use 'contenido';

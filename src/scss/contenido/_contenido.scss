@@ -1,3 +1,4 @@
+@use '../base/variables' as v;
 h1 {
-    color: $rojo;
+    color: v.$rojo; //tuvimos que agregar variables. por la sintaxis nueva
 }
