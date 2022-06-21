@@ -7,3 +7,4 @@
 * Aprendimos que un mixin es como una función y que SASS permite que CSS se comporte como un lenguaje de programación
 * Aprendimos a crear los Media Queries para tamaño de pantalla usando @mixin
 * Trajimos SCSS.json desde Configure User Snippets usando ctrl + shift + p 
+* Recordamos que Justify content es para alinear verticalmente
