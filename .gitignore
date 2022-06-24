@@ -1,5 +1,4 @@
 node_modules/
-
 build/css/layout/
-
+build/img
 package-lock.json
