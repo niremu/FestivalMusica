@@ -9,3 +9,4 @@
 * Trajimos SCSS.json desde Configure User Snippets usando ctrl + shift + p 
 * Recordamos que Justify content es para alinear verticalmente
 * Instalamos parallel y gulp-webp para ejecutar varias funciones de gulp usando dev y convertir imágenes al formato webp con gulp
+* Crear un overlay a mano con Javascript y darle estilo con scss
